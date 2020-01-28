@@ -3,7 +3,7 @@
 This plugin automatically adds automatic password hashing to your [Objection.js](https://github.com/Vincit/objection.js/) models. This makes it super-easy to secure passwords and other sensitive data.
 
 Under the hood, the plugin uses [bcrypt](https://en.wikipedia.org/wiki/Bcrypt) for hashing.
-
+> replace bcrypt with [bcryptjs](https://github.com/dcodeIO/bcrypt.js) - Optimized bcrypt in JavaScript with zero dependencies
 ## Installation
 
 ### NPM
